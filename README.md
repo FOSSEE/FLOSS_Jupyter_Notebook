@@ -1,4 +1,4 @@
-Physical Computing with ESP32, MicroPython, and Jupyter Notebook
+# Physical Computing with ESP32, MicroPython, and Jupyter Notebook
 
 This repository contains a collection of projects and examples for physical computing using the ESP32 microcontroller with MicroPython, managed and executed through Jupyter Notebook. These examples demonstrate how to connect and control various sensors and actuators, enabling you to create interactive and connected devices.
 Introduction
